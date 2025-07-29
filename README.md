@@ -1,4 +1,4 @@
-# 📰 Fake News Classification using Machine Learning
+#  Fake News Classification using Machine Learning
 
 This internship project detects whether a news article is **Fake** or **Real** using machine learning and natural language processing (NLP). A trained Naive Bayes model is deployed through a Streamlit web app for real-time prediction.
 
