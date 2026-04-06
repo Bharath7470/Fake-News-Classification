@@ -26,7 +26,7 @@ This internship project detects whether a news article is **Fake** or **Real** u
 | `model.pkl` | Trained Naive Bayes model |
 | `tfidf.pkl` | TF-IDF vectorizer |
 | `app.py` | Streamlit app code for real-time prediction |
-| `report.pdf` | Final project report |
+| `requirements.txt` | Requirements to run |
 | `README.md` | Project documentation (this file) |
 
 ##  Dataset Source
